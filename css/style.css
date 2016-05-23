@@ -1,0 +1,50 @@
+import url('https://fonts.googleapis.com/css?family=Inconsolata')
+
+body{
+    font-family: "Inconsolata",Tahoma,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 10pt;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #ae3910;
+    border-color: #ae3910;
+}
+
+a {
+    text-decoration: none !important;
+    color: #bf3e11;
+}
+.header {
+    color: #666666;
+}
+.author {
+    font-size: 9pt;
+    color: #ae3910;
+}
+.date {
+    font-size: 9pt;
+    color: #a1a1a1;
+}
+
+h1 {
+    color: #666666;
+    font-size: 18pt;
+}
+
+h2 {
+    color: #bf3e11;
+    font-size: 16pt;
+}
+
+h3 {
+    color: #6c6c6c;
+    font-size: 14pt;
+}
+
+h4 {
+    color: #6d6d6d;
+    font-size: 12pt;
+}
+
